@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "分かっちゃいないね",
+  "base_artist": "monet",
+  "createdAt": "2026-02-08T08:05:19.628511Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "分かっちゃいないね",
+      "artist": "monet",
+      "has_synced": false,
+      "path": "select/pl_01_分かっちゃいないね_monet.txt"
+    }
+  ]
+}
